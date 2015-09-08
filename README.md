@@ -1,6 +1,6 @@
 the1azn8.github.io
 ==================
-BEEP BOOP FUCK THE BLOOP
+Hello world!
 SITE
 =
 the1azn8.github.io
