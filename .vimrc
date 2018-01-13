@@ -1,3 +1,4 @@
+"git clone https://github.com/VundleVim/Vundle.vim.git
 set shell=/bin/bash
 set nocompatible
 filetype off
