@@ -1,3 +1,5 @@
+<a rel="me" href="https://mastodon.gamedev.place/@youwin" />
+
 ### Student
 I majored in Management Information Systems at the University of Georgia and graduated in the May of 2017.
 
